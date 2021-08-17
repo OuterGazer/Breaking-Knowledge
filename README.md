@@ -2,6 +2,7 @@
 A Block-Breaker/Arkanoid-Clone type of game with a mix of Tetris-like and pinball gameplay.
 
 Gameplay example
+
 ![Breaking Knowledge](https://user-images.githubusercontent.com/71871620/129686247-d4f420b6-b071-448a-8653-d554b10974c8.gif)
 
 My third Unity game, developed with less than 2 months Unity experience. Based on the Block Breaker section from the GameDev.tv Unity 2D course.
